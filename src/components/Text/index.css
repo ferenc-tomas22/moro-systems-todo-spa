@@ -1,0 +1,118 @@
+.titleDisplay {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2rem;
+  letter-spacing: 0;
+
+  @media (min-width: 768px) {
+    font-size: 2rem;
+    line-height: 2.25rem;
+  }
+}
+
+.titleLarge {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  letter-spacing: 0;
+
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}
+
+.titleMedium {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+
+  @media (min-width: 768px) {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+  }
+}
+
+.titleSmall {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+.bodyLarge {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.75rem;
+  letter-spacing: 0;
+}
+
+.bodyRegular {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  letter-spacing: 0;
+}
+
+.bodySmall {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+.labelLarge {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+.labelLarge400 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+.labelRegular {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+.labelRegular400 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+.labelSmall {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1rem;
+  letter-spacing: 0;
+}
+
+.labelSmall400 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1rem;
+  letter-spacing: 0;
+}
