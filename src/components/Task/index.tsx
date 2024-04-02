@@ -1,7 +1,6 @@
 import { Text, UpdateTaskModal } from '@/components';
 import { useApi, useModal } from '@/context';
-import { ClipboardCheckIcon, ClipboardUncheckIcon } from '@/icons';
-import { TrashIcon } from '@/icons';
+import { ClipboardCheckIcon, ClipboardUncheckIcon, TrashIcon } from '@/icons';
 import { ITask } from '@/model';
 
 type TaskProps = {

@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom/client';
 
 import { ApiProvider, AppContextProvider, ModalProvider, ToastContextProvider } from '@/context';
 
-import { App } from './App.tsx';
+import { App } from './App';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
