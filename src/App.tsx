@@ -4,7 +4,7 @@ import {
   Tasks,
   TasksActionsButton,
   TasksFilterSelect,
-} from './components';
+} from '@/components';
 
 export const App = () => (
   <div className='container-fluid'>
