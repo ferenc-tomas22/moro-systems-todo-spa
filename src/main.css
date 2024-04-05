@@ -3,7 +3,7 @@
 html,
 body {
   background: radial-gradient(circle, #f8f9fa 0%, #f1e6f5 100%);
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif !important;
   overflow-x: hidden;
   min-height: 40rem;
 }

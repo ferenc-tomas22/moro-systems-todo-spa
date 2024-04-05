@@ -1,9 +1,9 @@
 import { isAxiosError } from 'axios';
 
-export const getErrorMessage = (error: unknown) => {
-  if (isAxiosError(error) || error instanceof Error) {
-    return error.message;
+export const getErrorMessage = (caughtError: unknown) => {
+  if (isAxiosError(caughtError) || caughtError instanceof Error) {
+    return caughtError.message;
   }
 
-  return String(error);
+  return String(caughtError);
 };
