@@ -7,7 +7,7 @@ export const CreateTaskButton = () => {
 
   const handleCreateTask = () =>
     showModal({
-      header: 'Priadať úlohu',
+      header: 'Pridať úlohu',
       body: <CreateTaskModal />,
     });
 
